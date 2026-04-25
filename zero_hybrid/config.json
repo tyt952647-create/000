@@ -1,0 +1,41 @@
+{
+    "motion_detection": {
+      "base_threshold": 12,
+      "adapt_rate": 3.0,
+      "target_brightness": 127,
+      "kernel_size_min": 3,
+      "kernel_size_max": 11
+    },
+    "fish_classification": {
+      "num_classes": 10,
+      "min_size": 20,
+      "max_size": 50000,
+      "aspect_ratio_min": 0.15,
+      "aspect_ratio_max": 6.0
+    },
+    "targeting": {
+      "small_fish_priority": true,
+      "target_classes": [0, 1, 2],
+      "min_speed": 1.0,
+      "lead_frames": 4,
+      "shot_cost": 1.0
+    },
+    "conservation": {
+      "min_efficiency_ratio": 1.5,
+      "mandatory_fire_interval": 30,
+      "aggressiveness_default": 0.5
+    },
+    "oscillation": {
+      "detection_enabled": true,
+      "period_min_frames": 15,
+      "period_max_frames": 60,
+      "correlation_threshold": 0.8
+    },
+    "ui": {
+      "radar_size": 400,
+      "show_velocity_vectors": true,
+      "show_confidence": true,
+      "show_multipliers": true
+    }
+  }
+  

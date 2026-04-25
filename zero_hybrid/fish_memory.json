@@ -1,0 +1,69 @@
+{
+  "2": {
+    "shots_to_kill": [
+      1,
+      1,
+      1
+    ],
+    "value": 3.19,
+    "encounters": 3,
+    "avg_shots": 1.0
+  },
+  "5": {
+    "shots_to_kill": [
+      1,
+      1,
+      1
+    ],
+    "value": 28.06,
+    "encounters": 3,
+    "avg_shots": 1.0
+  },
+  "1": {
+    "shots_to_kill": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "value": 2.6,
+    "encounters": 11,
+    "avg_shots": 1.0
+  },
+  "6": {
+    "shots_to_kill": [],
+    "value": 0,
+    "encounters": 0,
+    "avg_shots": 0.0
+  },
+  "3": {
+    "shots_to_kill": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "value": 6.63,
+    "encounters": 7,
+    "avg_shots": 1.0
+  },
+  "4": {
+    "shots_to_kill": [
+      1,
+      1
+    ],
+    "value": 17.85,
+    "encounters": 2,
+    "avg_shots": 1.0
+  }
+}
